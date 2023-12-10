@@ -1,0 +1,33 @@
+.container{
+    width: fit-content;
+    margin: auto;
+    margin-top:50px;
+    padding:50px;
+    text-align: center;
+}
+.container h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+.container h3{
+    
+    font-size: 32px;
+}
+
+button{
+    color: white;
+    padding:20px 50px;
+    background-color: blue;
+    margin-bottom:50px ;
+    cursor:pointer;
+    font-size: 32px;
+}
+
+button:hover{
+    background-color: green;
+   
+    
+}
+.qoute{
+    font-size: 32px;
+}
